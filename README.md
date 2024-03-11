@@ -28,8 +28,8 @@ That's why I like to make things that make a difference.
 - 🔭 I’m currently working on [AWS](https://aws.amazon.com/free/?gclid=CjwKCAjw17qvBhBrEiwA1rU9w3WTW2rW1Xkh8REqkAQir2fZCONKWo7U8pCbPxW2BOOOemO88wIynRoCDEYQAvD_BwE&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=fb8718a7-d9f7-4e07-9fc5-b85de26b4178&sc_channel=ps&ef_id=CjwKCAjw17qvBhBrEiwA1rU9w3WTW2rW1Xkh8REqkAQir2fZCONKWo7U8pCbPxW2BOOOemO88wIynRoCDEYQAvD_BwE:G:s&s_kwcid=AL!4422!3!476942607526!e!!g!!aws%20cloud%20computing!11542865500!116152064607)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Data Structures and Algorithms.
+  - Cloud Computing.
 - 📬 How to reach me: [goyallovish1727@gmail.com](mailto:goyallovish1727@gmail.com)
 - 📝 [Resume]().
 - 💪 This is where I write, code, and solve problems:
